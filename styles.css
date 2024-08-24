@@ -31,13 +31,13 @@ header {
 }
 
 .nav-links a {
-    color: #fff;
+    color: #231e1e;
     text-decoration: none;
     font-weight: bold;
 }
 
 .nav-links a:hover {
-    color: #f4f4f4;
+    color: #7a7a7a;
 }
 
 /* Landing Page */
